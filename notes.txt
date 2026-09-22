@@ -1,2 +1,3 @@
 My first git command
 mmmmmmmm
+git branch -M main
